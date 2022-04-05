@@ -155,7 +155,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 23);
             this.button5.TabIndex = 6;
-            this.button5.Text = "button5";
+            this.button5.Text = "back";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // Form2

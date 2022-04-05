@@ -34,5 +34,10 @@ namespace WindowsFormsApp2
             f.Show();
             Hide();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

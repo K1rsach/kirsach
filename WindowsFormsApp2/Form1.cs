@@ -18,7 +18,7 @@ namespace WindowsFormsApp2
         // ImgList
         Country[] countries = new Country[5];
         Player[] players = new Player[5];
-        Team[] teams = new Team[5];
+        
         PositionName[] positionNames = new PositionName[5];
         PositionOfPlayer[] positionOfPlayers = new PositionOfPlayer[5];
 
@@ -62,21 +62,7 @@ namespace WindowsFormsApp2
             player.Set("5", "Darrell ", "Arthur", "2,06", "107", "US");
             players[4] = player;
 
-            Team team = new Team();
-            team.Set("1", "Miami Heat", "MIA", "1.jpg");
-            teams[0] = team;
-
-            team.Set("2", "Orlando Magic", "ORL", "2.jpg");
-            teams[1] = team;
-
-            team.Set("3", "Atlanta Hawks", "ATL", "3.jpg");
-            teams[2] = team;
-
-            team.Set("4", "Washington Wizards", "WSH", "4.jpg");
-            teams[3] = team;
-
-            team.Set("5", "Charlotte Hornets", "CHA", "5.jpg");
-            teams[4] = team;
+            
 
             PositionName positionName = new PositionName();
             positionName.Set("1", "SmallForward");

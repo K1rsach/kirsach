@@ -37,19 +37,19 @@
             this.label21 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.label23 = new System.Windows.Forms.Label();
-            this.label24 = new System.Windows.Forms.Label();
-            this.label25 = new System.Windows.Forms.Label();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.lab5 = new System.Windows.Forms.Label();
+            this.lab4 = new System.Windows.Forms.Label();
+            this.textB5 = new System.Windows.Forms.TextBox();
+            this.textB4 = new System.Windows.Forms.TextBox();
             this.label27 = new System.Windows.Forms.Label();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
-            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.lab3 = new System.Windows.Forms.Label();
+            this.lab2 = new System.Windows.Forms.Label();
+            this.textB2 = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
-            this.label35 = new System.Windows.Forms.Label();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.lab1 = new System.Windows.Forms.Label();
+            this.textB1 = new System.Windows.Forms.TextBox();
+            this.textB3 = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
@@ -208,43 +208,43 @@
             this.label23.TabIndex = 362;
             this.label23.Text = "Roster      Matchups      First Lineup";
             // 
-            // label24
+            // lab5
             // 
-            this.label24.AutoSize = true;
-            this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label24.Location = new System.Drawing.Point(71, 339);
-            this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(80, 15);
-            this.label24.TabIndex = 361;
-            this.label24.Text = "Teams name";
+            this.lab5.AutoSize = true;
+            this.lab5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lab5.Location = new System.Drawing.Point(71, 339);
+            this.lab5.Name = "lab5";
+            this.lab5.Size = new System.Drawing.Size(80, 15);
+            this.lab5.TabIndex = 361;
+            this.lab5.Text = "Teams name";
             // 
-            // label25
+            // lab4
             // 
-            this.label25.AutoSize = true;
-            this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label25.Location = new System.Drawing.Point(71, 285);
-            this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(80, 15);
-            this.label25.TabIndex = 360;
-            this.label25.Text = "Teams name";
+            this.lab4.AutoSize = true;
+            this.lab4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lab4.Location = new System.Drawing.Point(71, 285);
+            this.lab4.Name = "lab4";
+            this.lab4.Size = new System.Drawing.Size(80, 15);
+            this.lab4.TabIndex = 360;
+            this.lab4.Text = "Teams name";
             // 
-            // textBox10
+            // textB5
             // 
-            this.textBox10.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox10.Location = new System.Drawing.Point(12, 333);
-            this.textBox10.Multiline = true;
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(254, 54);
-            this.textBox10.TabIndex = 358;
+            this.textB5.BackColor = System.Drawing.SystemColors.Menu;
+            this.textB5.Location = new System.Drawing.Point(12, 333);
+            this.textB5.Multiline = true;
+            this.textB5.Name = "textB5";
+            this.textB5.Size = new System.Drawing.Size(254, 54);
+            this.textB5.TabIndex = 358;
             // 
-            // textBox11
+            // textB4
             // 
-            this.textBox11.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox11.Location = new System.Drawing.Point(12, 282);
-            this.textBox11.Multiline = true;
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(254, 54);
-            this.textBox11.TabIndex = 355;
+            this.textB4.BackColor = System.Drawing.SystemColors.Menu;
+            this.textB4.Location = new System.Drawing.Point(12, 282);
+            this.textB4.Multiline = true;
+            this.textB4.Name = "textB4";
+            this.textB4.Size = new System.Drawing.Size(254, 54);
+            this.textB4.TabIndex = 355;
             // 
             // label27
             // 
@@ -256,34 +256,34 @@
             this.label27.TabIndex = 352;
             this.label27.Text = "Roster      Matchups      First Lineup";
             // 
-            // label30
+            // lab3
             // 
-            this.label30.AutoSize = true;
-            this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label30.Location = new System.Drawing.Point(71, 232);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(80, 15);
-            this.label30.TabIndex = 351;
-            this.label30.Text = "Teams name";
+            this.lab3.AutoSize = true;
+            this.lab3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lab3.Location = new System.Drawing.Point(71, 232);
+            this.lab3.Name = "lab3";
+            this.lab3.Size = new System.Drawing.Size(80, 15);
+            this.lab3.TabIndex = 351;
+            this.lab3.Text = "Teams name";
             // 
-            // label31
+            // lab2
             // 
-            this.label31.AutoSize = true;
-            this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label31.Location = new System.Drawing.Point(71, 178);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(80, 15);
-            this.label31.TabIndex = 350;
-            this.label31.Text = "Teams name";
+            this.lab2.AutoSize = true;
+            this.lab2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lab2.Location = new System.Drawing.Point(71, 178);
+            this.lab2.Name = "lab2";
+            this.lab2.Size = new System.Drawing.Size(80, 15);
+            this.lab2.TabIndex = 350;
+            this.lab2.Text = "Teams name";
             // 
-            // textBox12
+            // textB2
             // 
-            this.textBox12.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox12.Location = new System.Drawing.Point(12, 175);
-            this.textBox12.Multiline = true;
-            this.textBox12.Name = "textBox12";
-            this.textBox12.Size = new System.Drawing.Size(254, 54);
-            this.textBox12.TabIndex = 349;
+            this.textB2.BackColor = System.Drawing.SystemColors.Menu;
+            this.textB2.Location = new System.Drawing.Point(12, 175);
+            this.textB2.Multiline = true;
+            this.textB2.Name = "textB2";
+            this.textB2.Size = new System.Drawing.Size(254, 54);
+            this.textB2.TabIndex = 349;
             // 
             // label33
             // 
@@ -291,9 +291,9 @@
             this.label33.ForeColor = System.Drawing.SystemColors.Highlight;
             this.label33.Location = new System.Drawing.Point(88, 150);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(175, 13);
+            this.label33.Size = new System.Drawing.Size(38, 13);
             this.label33.TabIndex = 347;
-            this.label33.Text = "Roster      Matchups      First Lineup";
+            this.label33.Text = "Roster";
             // 
             // label34
             // 
@@ -305,33 +305,34 @@
             this.label34.TabIndex = 346;
             this.label34.Text = "Teams name";
             // 
-            // label35
+            // lab1
             // 
-            this.label35.AutoSize = true;
-            this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label35.Location = new System.Drawing.Point(71, 122);
-            this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(80, 15);
-            this.label35.TabIndex = 345;
-            this.label35.Text = "Teams name";
+            this.lab1.AutoSize = true;
+            this.lab1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lab1.Location = new System.Drawing.Point(71, 122);
+            this.lab1.Name = "lab1";
+            this.lab1.Size = new System.Drawing.Size(80, 15);
+            this.lab1.TabIndex = 345;
+            this.lab1.Text = "Teams name";
+            this.lab1.Click += new System.EventHandler(this.label35_Click);
             // 
-            // textBox13
+            // textB1
             // 
-            this.textBox13.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox13.Location = new System.Drawing.Point(12, 121);
-            this.textBox13.Multiline = true;
-            this.textBox13.Name = "textBox13";
-            this.textBox13.Size = new System.Drawing.Size(254, 54);
-            this.textBox13.TabIndex = 344;
+            this.textB1.BackColor = System.Drawing.SystemColors.Menu;
+            this.textB1.Location = new System.Drawing.Point(12, 121);
+            this.textB1.Multiline = true;
+            this.textB1.Name = "textB1";
+            this.textB1.Size = new System.Drawing.Size(254, 54);
+            this.textB1.TabIndex = 344;
             // 
-            // textBox15
+            // textB3
             // 
-            this.textBox15.BackColor = System.Drawing.SystemColors.Menu;
-            this.textBox15.Location = new System.Drawing.Point(12, 228);
-            this.textBox15.Multiline = true;
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(254, 54);
-            this.textBox15.TabIndex = 354;
+            this.textB3.BackColor = System.Drawing.SystemColors.Menu;
+            this.textB3.Location = new System.Drawing.Point(12, 228);
+            this.textB3.Multiline = true;
+            this.textB3.Name = "textB3";
+            this.textB3.Size = new System.Drawing.Size(254, 54);
+            this.textB3.TabIndex = 354;
             // 
             // label7
             // 
@@ -873,24 +874,24 @@
             this.Controls.Add(this.label21);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.label23);
-            this.Controls.Add(this.label24);
-            this.Controls.Add(this.label25);
+            this.Controls.Add(this.lab5);
+            this.Controls.Add(this.lab4);
             this.Controls.Add(this.pictureBox10);
-            this.Controls.Add(this.textBox10);
+            this.Controls.Add(this.textB5);
             this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox12);
-            this.Controls.Add(this.textBox11);
+            this.Controls.Add(this.textB4);
             this.Controls.Add(this.pictureBox13);
             this.Controls.Add(this.label27);
-            this.Controls.Add(this.label30);
-            this.Controls.Add(this.label31);
-            this.Controls.Add(this.textBox12);
+            this.Controls.Add(this.lab3);
+            this.Controls.Add(this.lab2);
+            this.Controls.Add(this.textB2);
             this.Controls.Add(this.pictureBox15);
             this.Controls.Add(this.label33);
             this.Controls.Add(this.label34);
-            this.Controls.Add(this.label35);
-            this.Controls.Add(this.textBox13);
-            this.Controls.Add(this.textBox15);
+            this.Controls.Add(this.lab1);
+            this.Controls.Add(this.textB1);
+            this.Controls.Add(this.textB3);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label9);
@@ -940,6 +941,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Form4";
             this.Text = "Form4";
+            this.Load += new System.EventHandler(this.Form4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
@@ -972,24 +974,24 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label22;
         private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.Label label24;
-        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.Label lab5;
+        private System.Windows.Forms.Label lab4;
         private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.TextBox textBox10;
+        private System.Windows.Forms.TextBox textB5;
         private System.Windows.Forms.PictureBox pictureBox11;
         private System.Windows.Forms.PictureBox pictureBox12;
-        private System.Windows.Forms.TextBox textBox11;
+        private System.Windows.Forms.TextBox textB4;
         private System.Windows.Forms.PictureBox pictureBox13;
         private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Label label30;
-        private System.Windows.Forms.Label label31;
-        private System.Windows.Forms.TextBox textBox12;
+        private System.Windows.Forms.Label lab3;
+        private System.Windows.Forms.Label lab2;
+        private System.Windows.Forms.TextBox textB2;
         private System.Windows.Forms.PictureBox pictureBox15;
         private System.Windows.Forms.Label label33;
         private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.Label label35;
-        private System.Windows.Forms.TextBox textBox13;
-        private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.Label lab1;
+        private System.Windows.Forms.TextBox textB1;
+        private System.Windows.Forms.TextBox textB3;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label9;

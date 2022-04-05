@@ -54,6 +54,7 @@
             this.label6.TabIndex = 26;
             this.label6.Text = "The current season is 2016-2017,and the NBA already has a history of 71 years.";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // checkBox1
             // 

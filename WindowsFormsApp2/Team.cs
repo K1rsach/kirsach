@@ -9,7 +9,7 @@ namespace WindowsFormsApp2
     internal class Team
     {
         String TeamID;
-        String Name;
+        public String Name;
         String Abbr;
         String Logo;
 
